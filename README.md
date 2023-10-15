@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dssumerwal
+- 👋 Hi, I’m dikshant singh
 - 👀 I’m interested in Full Stack Development, Application development, Game development...
 - 🌱 I’m currently learning JavaScript. I want to master my skills. If, there is any problem in my code... Help me to improve it.
 
