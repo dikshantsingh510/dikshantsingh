@@ -141,6 +141,7 @@ body {
   padding: 0.53rem 1rem;
   display: grid;
   place-items: center;
+  cursor:pointer;
 }
 
 .button {
